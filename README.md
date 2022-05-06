@@ -45,7 +45,7 @@ Apart from coding , I always learn about new techonlogy. You can check the out o
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbhushankarn&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/kulbhushankarn/kulbhushankarn">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbhushankarn&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github.com/Kulbhushankarn/Diabetes-prediction &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/kulbhushankarn/kulbhushankarn">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbhushankarn&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
