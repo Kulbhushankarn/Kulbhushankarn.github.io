@@ -28,7 +28,7 @@ Apart from coding , I always learn about new techonlogy. You can check the out o
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
   <img src='https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg' alt="Java" width="40" height="40">
-  <img src='https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg' height='40' width='40' alt="C++">
+  <img src='https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg' height='30' width='auto' alt="C++">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
@@ -38,17 +38,17 @@ Apart from coding , I always learn about new techonlogy. You can check the out o
 <a href="https://github.com/Kulbhushankarn/kulbhushankarn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulbhushankarn&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AashimaAhuja&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
+<a href="https://github.com/kulbhushankarn/kulbhushankarn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kulbhushankarn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kulbhushan's GitHub Stats" />
 </a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashimaAhuja&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kulbhushankarn/kulbhushankarn">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbhushankarn&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashimaAhuja&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kulbhushankarn/kulbhushankarn">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbhushankarn&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/AashimaAhuja/AashimaAhuja">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashimaAhuja&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kulbhushankarn/kulbhushankarn">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbhushankarn&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🔗 &nbsp;**Connect with me**
