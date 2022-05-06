@@ -24,7 +24,7 @@ My name is Kulbhushan Karn. I am a Undergrad Software Developer. I am from india
 
 Apart from coding , I always learn about new techonlogy. You can check the out on LinkedIn
 
-## 🔧 Langueages & Tools
+## 🔧 Language & Tools
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
   <img src='https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg' alt="Java" width="40" height="40">
