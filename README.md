@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Aashima Ahuja. I am a Frontend engineer and Content creator. I am from india, living in Amsterdam and working at Miro.
+My name is Kulbhushan Karn. I am a Undergrad Software Developer. I am from india.
 
 ## &#x270d; Content Creation and Vlogging
 
